@@ -9,15 +9,12 @@
 * This Smart Contract was made by contractwolf.io token generator (contractwolf.io/createtoken)
 * Create your own tokens with more options and with ease.
 *
-* https://contractwolf.io
-* https://twitter.com/contractwolf_io
-* https://github.com/ContractWolf/
-*
-* Request an audit
-* https://t.me/ContractwolfInquiries
+* https://sheprotocol.com
+* https://twitter.com/she_protocol
+* https://github.com/sheprotocol
 *
 *Telegram Channel
-*https://t.me/ContractWolfOfficial
+*https://t.me/sheprotocol
 */
 
 // SPDX-License-Identifier: MIT
